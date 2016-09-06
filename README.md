@@ -10,9 +10,4 @@ $ cd project-name
 $ npm install
 ```
 
-License
-----
-[MIT](https://opensource.org/licenses/MIT)
-
-
 **Sergio Asenjo**
