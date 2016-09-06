@@ -6,7 +6,7 @@ import { AboutComponent } from './components/pages/about.component';
 
 @Component({
   selector: 'my-app',
-  template: '<navbar></navbar><jumbotron></jumbotron><home></home>'
+  template: '<navbar></navbar><jumbotron></jumbotron><div class="container"><router-outlet></router-outlet></div>'
 })
 
 export class AppComponent { }
