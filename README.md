@@ -9,5 +9,3 @@ $ git clone https://github.com/sergiasenjo/Angular2-Website.git project-name
 $ cd project-name
 $ npm install
 ```
-
-**Sergio Asenjo**
